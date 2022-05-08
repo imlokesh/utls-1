@@ -95,6 +95,7 @@ const (
 	extensionSignatureAlgorithmsCert uint16 = 50
 	extensionKeyShare                uint16 = 51
 	extensionNextProtoNeg            uint16 = 13172 // not IANA assigned
+	extensionApplicationSettings     uint16 = 0x4469
 	extensionRenegotiationInfo       uint16 = 0xff01
 )
 
