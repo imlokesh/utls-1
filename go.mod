@@ -1,4 +1,4 @@
-module github.com/Carcraftz/utls
+module github.com/imlokesh/utls-1
 
 go 1.18
 
